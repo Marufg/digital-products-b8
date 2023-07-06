@@ -99,3 +99,10 @@
     padding: 20px;
     background-image: url("./images/background.png"),linear-gradient(45deg,#101010,#000);
 }
+.footer-container{
+    display: flex;
+    justify-content: space-around;
+    padding: 60px;
+    background-color: rgb(11, 11, 11);
+    color: white;
+}
